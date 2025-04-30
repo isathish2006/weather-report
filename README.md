@@ -11,8 +11,13 @@ This is a simple weather forecast application that allows users to get the curre
 
 🧰 Technologies Used:
 
-HTML5
-CSS3
-JavaScript 
-OpenWeatherMap API
+HTML5,
+CSS3,
+JavaScript, 
+OpenWeatherMap API.
 
+💻 How to Run (VS Code)
+
+Install the Live Server extension from the Extensions tab.
+Right-click on index.html → Open with Live Server.
+Enter a city name and get weather data!
