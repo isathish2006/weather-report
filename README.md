@@ -1,6 +1,8 @@
 # weather-report
 🌦️ Weather Report Web App
 This is a simple weather forecast application that allows users to get the current weather and 24-hour forecast of any city using the OpenWeatherMap API.
+![Screenshot 2025-04-30 181208](https://github.com/user-attachments/assets/b5ae6831-7079-49ab-82bf-d3a7fa2b98eb)
+
 
 🔧 Features:
 
