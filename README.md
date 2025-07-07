@@ -6,7 +6,7 @@ This is a simple weather forecast application that allows users to get the curre
 
 🔧 Features:
 
-🌍 Search for any city in the world.
+🌍 Search for any city.
 🌡️ Get current temperature, weather description, and icon.
 🕒 View 24-hour weather forecast (in 3-hour intervals).
 💡 Clean and responsive UI with HTML, CSS, and JavaScript.
@@ -22,4 +22,4 @@ OpenWeatherMap API.
 
 Install the Live Server extension from the Extensions tab.
 Right-click on index.html → Open with Live Server.
-Enter a city name and get weather data!
+Enter a city name and get weather data.
